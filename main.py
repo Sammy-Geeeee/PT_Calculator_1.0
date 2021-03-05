@@ -1025,3 +1025,12 @@ calc_gbox_output_options_rotspd.grid(row=1, column=5, ipadx=padding_int, ipady=p
 
 
 window.mainloop()
+
+# End this here for now.
+# End - 04/03/2021
+
+# FUTURE WORK OR FURTHER ITERATIONS
+# Make the calculations sections frames scrollable
+# Need to add an imperial foot unit to convert to and from, don't know why I forgot that one the first time...
+# Can you find a way to loop the creation of all the tkinter widgets, would be nice to not have so many lines
+# I've seen people mention online using classes for tkinter widgets, would this make it more readable and less code lines
